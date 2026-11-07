@@ -9,7 +9,7 @@ class Program
         string nombre = "Yohansell Blanco";
         string carrera = "Ciberseguridad";
         string institucion = "ITLA";
-        string correo = "tu_correo@ejemplo.com";
+        string correo = "20260723@itla.edu.do";
 
         // Mostrar tarjeta de presentación
         Console.WriteLine("==================================");
