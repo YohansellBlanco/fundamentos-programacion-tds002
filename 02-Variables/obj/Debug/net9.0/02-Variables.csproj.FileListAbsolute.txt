@@ -1,0 +1,15 @@
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\bin\Debug\net9.0\02-Variables.exe
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\bin\Debug\net9.0\02-Variables.deps.json
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\bin\Debug\net9.0\02-Variables.runtimeconfig.json
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\bin\Debug\net9.0\02-Variables.dll
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\bin\Debug\net9.0\02-Variables.pdb
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\02-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\02-Variables.AssemblyInfoInputs.cache
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\02-Variables.AssemblyInfo.cs
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\02-Variables.csproj.CoreCompileInputs.cache
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\02-Variables.sourcelink.json
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\02-Variables.dll
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\refint\02-Variables.dll
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\02-Variables.pdb
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\02-Variables.genruntimeconfig.cache
+C:\Users\yohan\fundamentos-programacion-tds002\02-Variables\obj\Debug\net9.0\ref\02-Variables.dll
