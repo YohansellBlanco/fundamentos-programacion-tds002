@@ -1,0 +1,15 @@
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\bin\Debug\net9.0\Casting.exe
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\bin\Debug\net9.0\Casting.deps.json
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\bin\Debug\net9.0\Casting.runtimeconfig.json
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\bin\Debug\net9.0\Casting.dll
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\bin\Debug\net9.0\Casting.pdb
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\Casting.AssemblyInfoInputs.cache
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\Casting.AssemblyInfo.cs
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\Casting.sourcelink.json
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\Casting.dll
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\refint\Casting.dll
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\Casting.pdb
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\Casting.genruntimeconfig.cache
+C:\Users\yohan\fundamentos-programacion-tds002\Evaluacion02\Casting\obj\Debug\net9.0\ref\Casting.dll
