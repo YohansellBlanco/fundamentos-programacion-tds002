@@ -1,0 +1,15 @@
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\bin\Debug\net9.0\03-Operadores.exe
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\bin\Debug\net9.0\03-Operadores.deps.json
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\bin\Debug\net9.0\03-Operadores.runtimeconfig.json
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\bin\Debug\net9.0\03-Operadores.dll
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\bin\Debug\net9.0\03-Operadores.pdb
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\03-Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\03-Operadores.AssemblyInfoInputs.cache
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\03-Operadores.AssemblyInfo.cs
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\03-Operadores.csproj.CoreCompileInputs.cache
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\03-Operadores.sourcelink.json
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\03-Operadores.dll
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\refint\03-Operadores.dll
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\03-Operadores.pdb
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\03-Operadores.genruntimeconfig.cache
+C:\Users\yohan\fundamentos-programacion-tds002\03-Operadores\obj\Debug\net9.0\ref\03-Operadores.dll
